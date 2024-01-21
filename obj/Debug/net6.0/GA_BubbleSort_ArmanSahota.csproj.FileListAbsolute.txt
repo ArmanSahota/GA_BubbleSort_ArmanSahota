@@ -1,0 +1,15 @@
+C:\Users\Arman\source\repos\csi-245-guidedactivity7-ArmanSahota\GA_BubbleSort_ArmanSahota\bin\Debug\net6.0\GA_BubbleSort_ArmanSahota.exe
+C:\Users\Arman\source\repos\csi-245-guidedactivity7-ArmanSahota\GA_BubbleSort_ArmanSahota\bin\Debug\net6.0\GA_BubbleSort_ArmanSahota.deps.json
+C:\Users\Arman\source\repos\csi-245-guidedactivity7-ArmanSahota\GA_BubbleSort_ArmanSahota\bin\Debug\net6.0\GA_BubbleSort_ArmanSahota.runtimeconfig.json
+C:\Users\Arman\source\repos\csi-245-guidedactivity7-ArmanSahota\GA_BubbleSort_ArmanSahota\bin\Debug\net6.0\GA_BubbleSort_ArmanSahota.dll
+C:\Users\Arman\source\repos\csi-245-guidedactivity7-ArmanSahota\GA_BubbleSort_ArmanSahota\bin\Debug\net6.0\GA_BubbleSort_ArmanSahota.pdb
+C:\Users\Arman\source\repos\csi-245-guidedactivity7-ArmanSahota\GA_BubbleSort_ArmanSahota\obj\Debug\net6.0\GA_BubbleSort_ArmanSahota.csproj.AssemblyReference.cache
+C:\Users\Arman\source\repos\csi-245-guidedactivity7-ArmanSahota\GA_BubbleSort_ArmanSahota\obj\Debug\net6.0\GA_BubbleSort_ArmanSahota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arman\source\repos\csi-245-guidedactivity7-ArmanSahota\GA_BubbleSort_ArmanSahota\obj\Debug\net6.0\GA_BubbleSort_ArmanSahota.AssemblyInfoInputs.cache
+C:\Users\Arman\source\repos\csi-245-guidedactivity7-ArmanSahota\GA_BubbleSort_ArmanSahota\obj\Debug\net6.0\GA_BubbleSort_ArmanSahota.AssemblyInfo.cs
+C:\Users\Arman\source\repos\csi-245-guidedactivity7-ArmanSahota\GA_BubbleSort_ArmanSahota\obj\Debug\net6.0\GA_BubbleSort_ArmanSahota.csproj.CoreCompileInputs.cache
+C:\Users\Arman\source\repos\csi-245-guidedactivity7-ArmanSahota\GA_BubbleSort_ArmanSahota\obj\Debug\net6.0\GA_BubbleSort_ArmanSahota.dll
+C:\Users\Arman\source\repos\csi-245-guidedactivity7-ArmanSahota\GA_BubbleSort_ArmanSahota\obj\Debug\net6.0\refint\GA_BubbleSort_ArmanSahota.dll
+C:\Users\Arman\source\repos\csi-245-guidedactivity7-ArmanSahota\GA_BubbleSort_ArmanSahota\obj\Debug\net6.0\GA_BubbleSort_ArmanSahota.pdb
+C:\Users\Arman\source\repos\csi-245-guidedactivity7-ArmanSahota\GA_BubbleSort_ArmanSahota\obj\Debug\net6.0\GA_BubbleSort_ArmanSahota.genruntimeconfig.cache
+C:\Users\Arman\source\repos\csi-245-guidedactivity7-ArmanSahota\GA_BubbleSort_ArmanSahota\obj\Debug\net6.0\ref\GA_BubbleSort_ArmanSahota.dll

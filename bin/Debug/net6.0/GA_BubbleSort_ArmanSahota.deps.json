@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GA_BubbleSort_ArmanSahota/1.0.0": {
+        "runtime": {
+          "GA_BubbleSort_ArmanSahota.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GA_BubbleSort_ArmanSahota/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
